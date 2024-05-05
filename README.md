@@ -222,3 +222,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+# RESULT:
+Thus, A* search algorithm for a Graph was implemented using python programming.
